@@ -33,6 +33,7 @@ Agentic workflows and LLM-based applications.
 
 📫 Reach Out
 Email: shivanipadaya90@gmail.com
+Linkedin: 
 
 Location: Bengaluru
 
